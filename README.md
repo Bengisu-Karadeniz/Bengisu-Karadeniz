@@ -24,13 +24,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 ## 🔍  Where to find me
-[![Instagram: Bengisu Karadeniz](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram)](https://www.instagram.com/bengiikrdnz/)
 [![Linkedin: Bengisu Karadeniz](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/bengisu-karadeniz-574a6a309/)
+[![Instagram: Bengisu Karadeniz](https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=Instagram)](https://www.instagram.com/bengiikrdnz/)
 
 
 ## 📊 Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bengisu-Karadeniz&layout=compact&theme=dark)
 ![stats](https://github-readme-stats.vercel.app/api?username=Bengisu-Karadeniz&layout=compact&show_icons=true&theme=dark&icon_color=bb2acf)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bengisu-Karadeniz&layout=compact&theme=dark)
+
 
 ## 🎯 Goals
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
